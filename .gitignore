@@ -2,6 +2,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/.firebase
+/.idea
+/.firebaserc
 
 # testing
 /coverage
